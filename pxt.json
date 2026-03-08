@@ -1,7 +1,7 @@
 {
-    "name": "Minecraft",
+    "name": "arcade-minecraft-blocks",
     "version": "1.0.0",
-    "description": "Minecraft blocks for MakeCode Arcade — one drawer with sections for World, Blocks, Player, Mobs, Items, Redstone, Crafting, Events, UI, and Commands.",
+    "description": "Minecraft blocks for MakeCode Arcade",
     "license": "MIT",
     "dependencies": {
         "device": "*"
