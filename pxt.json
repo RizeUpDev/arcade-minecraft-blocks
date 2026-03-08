@@ -1,0 +1,19 @@
+{
+    "name": "Minecraft",
+    "version": "1.0.0",
+    "description": "Minecraft blocks for MakeCode Arcade — one drawer with sections for World, Blocks, Player, Mobs, Items, Redstone, Crafting, Events, UI, and Commands.",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "enums.ts",
+        "minecraft.ts",
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": ["arcade"],
+    "targetVersions": {
+        "target": ">=1.3.30"
+    }
+}
